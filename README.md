@@ -26,16 +26,7 @@
         </span>
       </span></animated-image></h1>
 <h2 dir="auto"><a id="user-content--about-me" class="anchor" aria-hidden="true" href="#-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> About Me</h2>
-<p dir="auto"><g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji> I am Amit Singh, a <strong>Full Stack Developer</strong> specializing in  : </strong><br/>
-<ul>
-	<li> .Net </li>
-	<li> JQuery </li>
-	<li> C# </li>
-	<li> Javascript </li>
-	<li> MSSQL </li>
-</ul>
-
-I have experice on <strong>React</strong> , <strong>Angular</strong> and <strong>MongoDb</strong> too.<br/>
+<p dir="auto"><g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji> Experienced <strong> Full Stack Developer </strong> with a demonstrated history of working in the information technology and services industry. Skilled in backend develpoment as well as fontend. Strong engineering professional with a M.Sc.(IT) focused in Information Technology from Babasaheb Bhimrao Ambedkar University
 - 🔭 I’m currently working on **Fintech Solution**
 
 - 🌱 I’m currently learning **Node**
