@@ -46,6 +46,7 @@ I have experice on <strong>React</strong> , <strong>Angular</strong> and <strong
 
 <img src="https://raw.githubusercontent.com/np4652/np4652/7f908dd1d638146c26170d8cd4c9268b1abc160c/.github/Images/typescript.svg" alt="typescript"/>
 <img src="https://raw.githubusercontent.com/np4652/np4652/7f908dd1d638146c26170d8cd4c9268b1abc160c/.github/Images/javascript.svg" alt="javascript"/>
+<img src="https://raw.githubusercontent.com/np4652/np4652/main/.github/Images/mssql.png" alt="Sql"/>
 <!--<img src="" alt="python" />-->
 
 
