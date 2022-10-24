@@ -85,8 +85,8 @@ I have experice on <strong>React</strong> , <strong>Angular</strong> and <strong
 
 <h2>&nbsp;</h2>
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=np4652&show_icons=true&locale=en&layout=compact" alt="np4652" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=np4652&show_icons=true&locale=en" alt="np4652" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=np4652&show_icons=true&locale=en&layout=compact" alt="np4652" style="width:44%"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=np4652&show_icons=true&locale=en" alt="np4652" style="width:52%"/>
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=np4652&" alt="np4652" style="width:100%"/></p>
 
