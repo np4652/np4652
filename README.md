@@ -91,7 +91,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p dir="auto">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=np4652&show_icons=true&locale=en&layout=compact" alt="np4652" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=np4652&show_icons=true&locale=en&layout=compact" alt="np4652" /></p>
 
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=np4652&show_icons=true&locale=en" alt="np4652" /></p>
+    <p dir="auto"><img align="center" src="https://github-readme-stats.vercel.app/api?username=np4652&show_icons=true&locale=en" alt="np4652" />
+</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=np4652&" alt="np4652" /></p>
