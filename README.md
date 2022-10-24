@@ -59,7 +59,7 @@ I have experice on <strong>React</strong> , <strong>Angular</strong> and <strong
 <img src="https://raw.githubusercontent.com/np4652/np4652/d2d40fcf863cb6006fe91aa20e1a1c2b8de307ff/.github/Images/html.svg" alt="html" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"/>
 <img src="https://raw.githubusercontent.com/np4652/np4652/d2d40fcf863cb6006fe91aa20e1a1c2b8de307ff/.github/Images/css.svg" alt="css" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"/>
 <img src="https://raw.githubusercontent.com/np4652/np4652/d2d40fcf863cb6006fe91aa20e1a1c2b8de307ff/.github/Images/sass.svg" alt="sass" data-canonical-src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&amp;logo=sass&amp;logoColor=white" style="max-width: 100%;"/>
-<img src="https://raw.githubusercontent.com/np4652/np4652/d2d40fcf863cb6006fe91aa20e1a1c2b8de307ff/.github/Images/Bootstrap.svg" alt="bootstrap" data-canonical-src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white"/>
+<img src="https://raw.githubusercontent.com/np4652/np4652/d2d40fcf863cb6006fe91aa20e1a1c2b8de307ff/.github/Images/Bootstrap.svg" alt="bootstrap"/>
 
 
 
