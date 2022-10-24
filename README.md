@@ -35,7 +35,20 @@
 	<li> MSSQL </li>
 </ul>
 
-I have experice on <strong>React</strong> , <strong>Angular</strong> and <strong>MongoDb</strong> too.</p>
+I have experice on <strong>React</strong> , <strong>Angular</strong> and <strong>MongoDb</strong> too.<br/>
+- 🔭 I’m currently working on **Fintech Solution**
+
+- 🌱 I’m currently learning **Node**
+
+- 💬 Ask me about **C# , .Net , .Net Core ,MS-SQL, Jquery, Javascript**
+
+- 📫 How to reach me **np4652@gmail.com**
+
+<strong>Connect with me:</strong>
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/amit-singh-618b1a69/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amit-singh-618b1a69/" height="30" width="40" /></a>
+
+</p>
 
 <p dir="auto"><g-emoji class="g-emoji" alias="guitar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b8.png">🎸</g-emoji> Outside the world of tech too, I enjoy pushing myself to develop new skills.</p>
 
