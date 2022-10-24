@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amit Singh<small>A passionate full stack developer from India</small></h1>
+<h1 align="center">Hi 👋, I'm Amit Singh<br/><small>A passionate full stack developer from India</small></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=np4652&label=Profile%20views&color=0e75b6&style=flat" alt="np4652" /> </p>
 
