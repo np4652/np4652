@@ -83,11 +83,9 @@ I have experice on <strong>React</strong> , <strong>Angular</strong> and <strong
 <img src="https://raw.githubusercontent.com/np4652/np4652/17221fbbb448f5b343513e50c784de23f288d7b6/.github/Images/VSC.svg" alt="vs-code">
 </p>
 <h2 dir="auto">&nbsp;</h2>
-<p dir="auto">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=np4652&show_icons=true&locale=en&layout=compact" alt="np4652" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=np4652&show_icons=true&locale=en" alt="np4652" />
-</p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=np4652&" alt="np4652" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=np4652&show_icons=true&locale=en&layout=compact" alt="np4652" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=np4652&show_icons=true&locale=en" alt="np4652" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=np4652&" alt="np4652" />
 
 
 <!---
