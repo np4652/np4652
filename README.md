@@ -86,4 +86,4 @@ np4652/np4652 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-![Snake animation](https://github.com/np4652/np4652/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/np4652/np4652/05b58b3d57a5688d3f34b81cc8acf1290613fe86/.github/Images/github-contribution-grid-snake.svg)
