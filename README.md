@@ -50,10 +50,12 @@
 </h2>
 
 <h3 dir="auto"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg>Languages</h3>
-
+<p dir="auto">
+<img src="https://raw.githubusercontent.com/np4652/np4652/e8c7945798acf2593f691cdafd2a11f8daf8615c/.github/Images/csharp.svg" alt="c-sharp"/>
 <img src="https://raw.githubusercontent.com/np4652/np4652/7f908dd1d638146c26170d8cd4c9268b1abc160c/.github/Images/typescript.svg" alt="typescript"/>
 <img src="https://raw.githubusercontent.com/np4652/np4652/7f908dd1d638146c26170d8cd4c9268b1abc160c/.github/Images/javascript.svg" alt="javascript"/>
 <img src="https://raw.githubusercontent.com/np4652/np4652/54228a2fe859885ae084079d4b5249d8b0db4bd4/.github/Images/SQL.svg" alt="Sql"/>
+</p>
 <!--<img src="" alt="python" />-->
 
 
